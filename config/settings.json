@@ -24,103 +24,103 @@
         "webSecurity": true,
         "hourlyThreads": [
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             },
             {
-                "from": 9,
-                "to": 9
+                "from": 8,
+                "to": 8
             }
         ],
-        "autoStart": false,
+        "autoStart": true,
         "browserData": "keep-all",
         "downloadMode": "disabled",
         "remoteCamp": false,
@@ -133,8 +133,8 @@
         "autoStart": false
     },
     "cacheDir": "",
-    "accessKey": "701db1d250a23a8f72ba7c3e79fb2c79",
-    "note": "",
+    "accessKey": "701db1d250a23a8f72ba7c3e78fb2c78",
+    "note": "cropused_chercs.fun",
     "topMost": false,
     "lowEndMode": true
 }
